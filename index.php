@@ -157,7 +157,7 @@
           </div><!--/.sg-font-stacks-->
         </div><!--/.sg-info-->
 
-        <?php renderFilesInFolder('markup'); ?>
+        <?php renderFileSource('markup'); ?>
       </div><!--/.sg-container-->
     </div><!--/.sg-main-->
   </div><!--/.sg-wrapper-->
